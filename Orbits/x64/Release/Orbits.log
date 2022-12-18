@@ -1,0 +1,22 @@
+﻿  Planet.cpp
+  main.cpp
+C:\Users\markh\source\repos\Orbits\Orbits\main.cpp(42,64): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\markh\source\repos\Orbits\Orbits\main.cpp(42,50): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\markh\source\repos\Orbits\Orbits\main.cpp(54,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\markh\source\repos\Orbits\Orbits\main.cpp(55,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\markh\source\repos\Orbits\Orbits\main.cpp(55,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\markh\source\repos\Orbits\Orbits\main.cpp(66,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\markh\source\repos\Orbits\Orbits\main.cpp(91,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\markh\source\repos\Orbits\Orbits\main.cpp(93,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\markh\source\repos\Orbits\Orbits\main.cpp(93,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\markh\source\repos\Orbits\Orbits\main.cpp(94,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\markh\source\repos\Orbits\Orbits\main.cpp(94,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\markh\source\repos\Orbits\Orbits\main.cpp(94,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\markh\source\repos\Orbits\Orbits\main.cpp(125,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\markh\source\repos\Orbits\Orbits\main.cpp(124,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  0 of 223 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Orbits.vcxproj -> C:\Users\markh\source\repos\Orbits\x64\Release\Orbits.exe
